@@ -1,0 +1,8 @@
+{
+  "Name": "Marcus Nomad",
+  "ID": "85028",
+  "Fraction": "LSCSD",
+  "Rang": "13",
+  "Department": "IAD",
+  "JobTitle": "Assistant Chief, Сенатор"
+}
